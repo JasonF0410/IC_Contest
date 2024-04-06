@@ -1,2 +1,2 @@
 # IC_Contest
- The ic_contest problem I had praticed
+ There are some ic_contest problems I had praticed
